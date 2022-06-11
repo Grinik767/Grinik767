@@ -1,4 +1,6 @@
-### Hi there 👋 Всем привет!
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Grigorii</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">SchoolBoy and Python developer 🇷🇺</h3>
 
 <!--
 **Grinik767/Grinik767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python </br>
 📫 How to reach me: 
