@@ -1,21 +1,35 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://t.me/Grinik767" target="_blank">Grigorii</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  
-  ![snake gif](https://github.com/Grinik767/Grinik767/blob/output/github-contribution-grid-snake.gif)
   <h2>My favourite projects 👍</h2>
 </div>
 <div>
-  <h3>C#</h3>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Yandex_lyceum_downloader)](https://github.com/Grinik767/Yandex_lyceum_downloader)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=big_task_map_api)](https://github.com/Grinik767/big_task_map_api)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=game_on_pygame)](https://github.com/Grinik767/game_on_pygame)
-
-  <h3>Python + ML</h3>
-
-  <h3>Other (fun and etc.)</h3>
   
+  <h2>C#</h2>
+  <div align="center">
+    
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=fi.Journal-Backend&theme=tokyonight)](https://github.com/Grinik767/fi.Journal-Backend)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevaVlad&repo=UnityGame&theme=tokyonight)](https://github.com/RevaVlad/UnityGame)
+  </div>
   <hr>
+  <br>
+  
+  <h2>Python + ML</h2>
+  <div align="center">
+    
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Kit&theme=tokyonight)](https://github.com/Grinik767/Kit)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DesMonNt&repo=search-engine&theme=tokyonight)](https://github.com/DesMonNt/search-engine)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Clouds&theme=tokyonight)](https://github.com/Grinik767/Clouds)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=gazik&theme=tokyonight)](https://github.com/Grinik767/gazik)
+  </div>
+  <hr>
+  <br>
+
+  <h2>Other (fun and etc.)</h2>
+  <div align="center">
+    
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=2048-on-Jack&theme=tokyonight)](https://github.com/Grinik767/2048-on-Jack)
+  </div>
   
 </div>
  
