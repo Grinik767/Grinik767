@@ -27,8 +27,8 @@
   <h2>C#</h2>
   <div align="center">
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=fi.Journal-Backend&theme=tokyonight)](https://github.com/Grinik767/fi.Journal-Backend)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevaVlad&repo=UnityGame&theme=tokyonight)](https://github.com/RevaVlad/UnityGame)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=fi.Journal-Backend&theme=tokyonight&cache_seconds=60)](https://github.com/Grinik767/fi.Journal-Backend)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevaVlad&repo=UnityGame&theme=tokyonight&cache_seconds=60)](https://github.com/RevaVlad/UnityGame)
   </div>
   <hr>
   <br>
@@ -36,10 +36,10 @@
   <h2>Python + ML</h2>
   <div align="center">
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Kit&theme=tokyonight)](https://github.com/Grinik767/Kit)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DesMonNt&repo=search-engine&theme=tokyonight)](https://github.com/DesMonNt/search-engine)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Clouds&theme=tokyonight)](https://github.com/Grinik767/Clouds)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=gazik&theme=tokyonight)](https://github.com/Grinik767/gazik)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Kit&theme=tokyonight&cache_seconds=60)](https://github.com/Grinik767/Kit)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DesMonNt&repo=search-engine&theme=tokyonight&cache_seconds=60)](https://github.com/DesMonNt/search-engine)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=Clouds&theme=tokyonight&cache_seconds=60)](https://github.com/Grinik767/Clouds)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=gazik&theme=tokyonight&cache_seconds=60)](https://github.com/Grinik767/gazik)
   </div>
   <hr>
   <br>
@@ -47,7 +47,7 @@
   <h2>Other (fun and etc.)</h2>
   <div align="center">
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=2048-on-Jack&theme=tokyonight)](https://github.com/Grinik767/2048-on-Jack)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grinik767&repo=2048-on-Jack&theme=tokyonight&cache_seconds=60)](https://github.com/Grinik767/2048-on-Jack)
   </div>
   
 </div>
